@@ -1,0 +1,24 @@
+/* add code here to make your image 300px square */
+#band {
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 25px;
+  border: 10px solid blue; 
+}
+/* add code here to change the color and font family of your band's name/title */
+h1 {
+  color: maroon;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+li {
+  color: green;
+  font-family: verdana;
+  font-size: 20px;
+}
+/* Bonus: change the color of your list elements */
